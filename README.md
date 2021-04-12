@@ -16,6 +16,8 @@ PARTS NECESSARY:
 - 10K Ohm Potentiometer
   - For the LCD
 - LEDs (Optional)
+- Capacitors (Optional)
+- A breadboard
 
 IDEAS FOR EXPANSION:
 - Use several sensors to triangulate the origin of the vibration based on the detected strength.
