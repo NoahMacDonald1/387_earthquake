@@ -15,11 +15,14 @@ PARTS NECESSARY:
   - This project uses a standard 1602A LCD. Rewrites will be necessary if you would like to use one.
 - 10K Ohm Potentiometer
   - For the LCD
+- 220 Ohm Resistors
+  - This project currently uses 3. One for the LCD, one for each LED. 
 - LEDs (Optional)
 - Capacitors (Optional)
 - A breadboard
 
 IDEAS FOR EXPANSION:
 - Use several sensors to triangulate the origin of the vibration based on the detected strength.
+  - Need better sensors than the ones I have.  
 - Tune sensitivities to detect stronger or weaker vibrations. A form of filtering.
   - Make this easily done in software.
